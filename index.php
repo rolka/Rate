@@ -131,7 +131,7 @@ $(function () {
 
     </div>
     <div id="button1">
-      <h1><a href="#">Register Now</a></h1>
+      <h1><a href="#">Register Now or Tomorrow</a></h1>
     </div>
     
     <div class="image1">
